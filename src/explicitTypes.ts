@@ -1,7 +1,3 @@
-let character: string;
-let age: number;
-let isLoggedIn: boolean;
-
 let marts: string[];
 marts = ['marts', 'semicolon']
 
@@ -18,5 +14,5 @@ uid = 54;
 // objects
 
 let martsObject: object;
-martsObject = {name: 'marts', age : 3600}
+martsObject = {name: 'marts', aged : 3600}
 

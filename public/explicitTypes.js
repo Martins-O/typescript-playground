@@ -1,16 +1,14 @@
-var character;
-var age;
-var isLoggedIn;
-var marts;
+"use strict";
+let marts;
 marts = ['marts', 'semicolon'];
 // union types
-var mixed = [];
+let mixed = [];
 mixed.push('marts');
 mixed.push(23);
 mixed.push(true);
-var uid;
+let uid;
 uid = 'marts';
 uid = 54;
 // objects
-var martsObject;
-martsObject = { name: 'marts', age: 3600 };
+let martsObject;
+martsObject = { name: 'marts', aged: 3600 };
